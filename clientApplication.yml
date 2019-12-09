@@ -1,4 +1,6 @@
 server:
+  profiles:
+    active: test
   port: 6001
 eureka:
   client:
